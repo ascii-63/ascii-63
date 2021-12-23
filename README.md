@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acsii-63. You can call me Pino.
-- 👀 I’m interested in Coding, ETH.
+- 👀 I’m interested in Coding, Ethical Hacking.
 - 🌱 I’m currently learning ET in HUST, VietNam.
 - 📫 Working mail: Duy.NQ203690@sis.hust.edu.vn
 
