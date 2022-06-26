@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @acsii-63. You can call me Pino.
-- 👀 I’m interested in Coding, Ethical Hacking.
-- 🌱 I’m currently learning ET in HUST, VietNam.
-- 📫 Working mail: Duy.NQ203690@sis.hust.edu.vn
+- @acsii-63 (niH) 
+- Learning Electronics and Telecommunication (ET) in Hanoi University of Science and Technology (HUST)
+- Future goal: Embedded System Security Engineer
+- Working mail: duy.nq203690@sis.hust.edu.vn or contact.nqduy@gmail.com
 
 <!---
 acsii-63/acsii-63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
