@@ -1,6 +1,6 @@
 - @acsii-63 (niH) 
 - Learning Electronics and Telecommunication (ET) in Hanoi University of Science and Technology (HUST)
-- Future goal: Embedded System Security Engineer
+- Future goal: Embedded System Engineer
 - Working mail: duy.nq203690@sis.hust.edu.vn or contact.nqduy@gmail.com
 
 <!---
