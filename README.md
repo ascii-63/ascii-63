@@ -1,4 +1,4 @@
-- @acsii-63 (niH) 
+- Hi!!! My name is Duy Nguyen Quoc, you can call me Duy or Pino.
 - Learning Electronics and Telecommunication (ET) in Hanoi University of Science and Technology (HUST)
 - Future goal: Embedded System Engineer
 - Working mail: duy.nq203690@sis.hust.edu.vn or contact.nqduy@gmail.com
