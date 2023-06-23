@@ -4,3 +4,9 @@
 ####    "I am not a visionary. I do not have a five-year plan. I'm an engineer. I'm perfectly happy with all the people who are walking around, staring at the clouds, looking at the stars and saying: "I want to go there." But I'm looking at the ground, and I want to fix the pothole that's right in front of me before I fall in. This is the kind of person I am."
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acsii-63&theme=dark&hide=issues,prs&show_icons=true,&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acsii-63&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=acsii-63&theme=dark&hide=issues,prs&show_icons=true,&rank_icon=github" width="300"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsii-63&layout=compact" width="300"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acsii-63&show_icons=true&theme=dark" width="300"></a>
+</p>
