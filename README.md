@@ -1,5 +1,5 @@
 # My name is Quoc Duy Nguyen.
-- Learning Electronics and Telecommunication (ET) in SEEE - Hanoi University of Science and Technology (HUST).
+- Learning Electronics and Telecommunication in Hanoi University of Science and Technology, Vietnam.
 - Working mail: duy.nq203690@sis.hust.edu.vn or contact.nqduy@gmail.com
 
 <p align='center'>
