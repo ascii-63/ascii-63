@@ -1,4 +1,10 @@
 # Quoc Duy Nguyen
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,rust,bash,ros,opencv,linux,arduino,raspberrypi,docker,aws,git,github," />
+  </a>
+</p>
+
 ## About Me:
 - :school: Bachelor of Electronics and Telecommunication, Hanoi University of Science and Technology, Vietnam.
 - :email: Contact: contact.nqduy@gmail.com
