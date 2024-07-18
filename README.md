@@ -8,7 +8,7 @@
 - Automotive
 ## Publications:
 1. A Multiple Marker Design for Precision and Redundant Visual Landing in Drone Delivery ([ICCAIS 2023](https://ieeexplore.ieee.org/document/10382271))
-
+##
 <p align='center'>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,rust,bash,ros,opencv,linux,raspberrypi,docker,kubernetes,aws,git,github," />
