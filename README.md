@@ -12,5 +12,5 @@
 ##
 <p align='center'>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,rust,bash,ros,opencv,linux,raspberrypi,docker,kubernetes,git,github," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,rust,bash,ros,linux,ubuntu,raspberrypi,git,github,vscode" />
 </p>
